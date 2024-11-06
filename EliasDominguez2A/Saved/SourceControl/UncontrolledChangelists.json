@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/playe/Desktop/Elias-Dominguez-Primer-Parcial/EliasDominguez2A/Content/Parcial.umap",
+				"C:/Users/playe/Desktop/Elias-Dominguez-Primer-Parcial/EliasDominguez2A/Content/Blueprint/BP_EnemigoParcial.uasset",
+				"C:/Users/playe/Desktop/Elias-Dominguez-Primer-Parcial/EliasDominguez2A/Content/Blueprint/BP_ArqueroParcial.uasset",
+				"C:/Users/playe/Desktop/Elias-Dominguez-Primer-Parcial/EliasDominguez2A/Content/Blueprint/BP_ProyectilEnemigo.uasset"
+			]
+		}
+	]
+}
